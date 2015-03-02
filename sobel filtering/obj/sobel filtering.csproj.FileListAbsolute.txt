@@ -1,0 +1,96 @@
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+F:\FacialExpression\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+F:\FacialExpression\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+F:\FacialExpression\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+F:\FacialExpression\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+F:\FacialExpression\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+F:\FacialExpression\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+F:\2011-12\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+F:\2011-12\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+F:\2011-12\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+F:\2011-12\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+F:\2011-12\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+F:\2011-12\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+F:\Backup\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+F:\Backup\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+F:\Backup\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+F:\Backup\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+F:\Backup\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+F:\Backup\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\SHAIKH\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+G:\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+G:\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+G:\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+G:\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+G:\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+G:\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+G:\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+G:\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+G:\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form1.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form2.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Form_preview.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.obj.Debug.sobel_filtering.Properties.Resources.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+C:\Documents and Settings\amish\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache

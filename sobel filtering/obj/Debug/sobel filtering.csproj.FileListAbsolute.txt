@@ -1,0 +1,12 @@
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.exe
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.pdb
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.exe
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\bin\Debug\sobel filtering.pdb
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.xml
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Imaging.xml
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\bin\Debug\AForge.Math.xml
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csprojResolveAssemblyReference.cache
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form1.resources
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Form2.resources
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel_filtering.Properties.Resources.resources
+C:\Users\amish_000\Desktop\FacialExpression\sobel filtering\obj\Debug\sobel filtering.csproj.GenerateResource.Cache
